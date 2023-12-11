@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Pre-Requiste
+In the project directory,Install redux react-redux : 
+
+### `npm i redux react-redux`
+
+## OR if you are cloning project 
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
